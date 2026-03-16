@@ -1,0 +1,161 @@
+order_id,order_date,customer_city,product_name,category,quantity,price_php,total_amount_php,payment_method
+1,2024-05-20,Cebu City,Mechanical Keyboard,Electronics,1,2200,2200,Cash on Delivery
+2,2024-12-12,Baguio,Phone Case,Accessories,1,150,150,GCash
+3,2024-01-17,Quezon City,Portable Fan,Home,4,350,1400,GCash
+4,2024-09-15,Iloilo City,Bluetooth Earbuds,Electronics,2,1200,2400,GCash
+5,2024-11-28,Baguio,LED Ring Light,Electronics,2,600,1200,Credit Card
+6,2024-10-28,Davao City,Bluetooth Earbuds,Electronics,4,1200,4800,GCash
+7,2024-06-23,Davao City,Phone Case,Accessories,4,150,600,Cash on Delivery
+8,2024-02-22,Manila,Bluetooth Earbuds,Electronics,3,1200,3600,Credit Card
+9,2024-06-25,Iloilo City,Mechanical Keyboard,Electronics,3,2200,6600,Maya
+10,2024-10-01,Manila,Wireless Mouse,Electronics,4,450,1800,Credit Card
+11,2024-05-30,Iloilo City,Mechanical Keyboard,Electronics,5,2200,11000,Maya
+12,2024-12-26,Manila,Portable Fan,Home,2,350,700,GCash
+13,2024-02-10,Cebu City,Bluetooth Earbuds,Electronics,3,1200,3600,GCash
+14,2024-08-20,Pasig,USB-C Cable,Accessories,3,120,360,Cash on Delivery
+15,2024-04-17,Davao City,Gaming Headset,Electronics,3,1800,5400,GCash
+16,2024-09-30,Cebu City,Portable Fan,Home,2,350,700,Cash on Delivery
+17,2024-05-18,Baguio,Laptop Stand,Accessories,4,700,2800,Cash on Delivery
+18,2024-04-27,Quezon City,Gaming Headset,Electronics,1,1800,1800,Maya
+19,2024-02-03,Cebu City,USB-C Cable,Accessories,3,120,360,Debit Card
+20,2024-12-01,Makati,Gaming Headset,Electronics,2,1800,3600,Credit Card
+21,2024-05-15,Caloocan,Laptop Stand,Accessories,2,700,1400,Cash on Delivery
+22,2024-05-14,Iloilo City,LED Ring Light,Electronics,5,600,3000,Credit Card
+23,2024-07-04,Cebu City,Portable Fan,Home,4,350,1400,Cash on Delivery
+24,2024-02-16,Quezon City,LED Ring Light,Electronics,4,600,2400,GCash
+25,2024-12-14,Taguig,Phone Case,Accessories,2,150,300,Debit Card
+26,2024-07-14,Iloilo City,Mechanical Keyboard,Electronics,4,2200,8800,Credit Card
+27,2024-10-10,Quezon City,LED Ring Light,Electronics,3,600,1800,GCash
+28,2024-11-24,Pasig,LED Ring Light,Electronics,3,600,1800,GCash
+29,2024-03-21,Makati,Power Bank 20000mAh,Electronics,4,950,3800,GCash
+30,2024-04-01,Baguio,Power Bank 20000mAh,Electronics,5,950,4750,GCash
+31,2024-11-07,Cebu City,Power Bank 20000mAh,Electronics,5,950,4750,Cash on Delivery
+32,2024-10-03,Baguio,Gaming Headset,Electronics,2,1800,3600,GCash
+33,2024-09-07,Quezon City,Portable Fan,Home,3,350,1050,GCash
+34,2024-05-02,Quezon City,Gaming Headset,Electronics,3,1800,5400,Cash on Delivery
+35,2024-02-13,Makati,Portable Fan,Home,1,350,350,GCash
+36,2024-03-06,Makati,LED Ring Light,Electronics,2,600,1200,Debit Card
+37,2024-09-27,Iloilo City,Phone Case,Accessories,3,150,450,Credit Card
+38,2024-12-19,Cebu City,Bluetooth Earbuds,Electronics,5,1200,6000,Maya
+39,2024-08-12,Baguio,USB-C Cable,Accessories,3,120,360,Credit Card
+40,2024-04-25,Manila,Mechanical Keyboard,Electronics,2,2200,4400,Maya
+41,2024-10-10,Cebu City,Wireless Mouse,Electronics,5,450,2250,Debit Card
+42,2024-02-06,Quezon City,Bluetooth Earbuds,Electronics,1,1200,1200,Cash on Delivery
+43,2024-06-18,Manila,Mechanical Keyboard,Electronics,1,2200,2200,Debit Card
+44,2024-12-08,Makati,Bluetooth Earbuds,Electronics,3,1200,3600,Cash on Delivery
+45,2024-10-19,Iloilo City,LED Ring Light,Electronics,2,600,1200,Credit Card
+46,2024-07-27,Cebu City,Bluetooth Earbuds,Electronics,4,1200,4800,GCash
+47,2024-06-30,Taguig,Mechanical Keyboard,Electronics,4,2200,8800,Credit Card
+48,2024-12-10,Manila,Laptop Stand,Accessories,1,700,700,GCash
+49,2024-02-25,Cebu City,USB-C Cable,Accessories,3,120,360,Cash on Delivery
+50,2024-08-17,Caloocan,Bluetooth Earbuds,Electronics,5,1200,6000,Credit Card
+51,2024-08-24,Cebu City,Phone Case,Accessories,3,150,450,GCash
+52,2024-02-20,Quezon City,Laptop Stand,Accessories,5,700,3500,Debit Card
+53,2024-05-01,Caloocan,Wireless Mouse,Electronics,1,450,450,Credit Card
+54,2024-04-19,Taguig,Laptop Stand,Accessories,4,700,2800,GCash
+55,2024-01-02,Taguig,Phone Case,Accessories,4,150,600,Maya
+56,2024-08-04,Baguio,Laptop Stand,Accessories,3,700,2100,Credit Card
+57,2024-05-31,Cebu City,Phone Case,Accessories,2,150,300,GCash
+58,2024-02-01,Pasig,Portable Fan,Home,5,350,1750,GCash
+59,2024-09-01,Baguio,Wireless Mouse,Electronics,5,450,2250,Debit Card
+60,2024-09-17,Manila,Phone Case,Accessories,1,150,150,Cash on Delivery
+61,2024-02-04,Cebu City,Mechanical Keyboard,Electronics,5,2200,11000,Credit Card
+62,2024-05-06,Iloilo City,Mechanical Keyboard,Electronics,5,2200,11000,Debit Card
+63,2024-02-11,Taguig,Wireless Mouse,Electronics,5,450,2250,Debit Card
+64,2024-06-10,Davao City,Portable Fan,Home,5,350,1750,Cash on Delivery
+65,2024-05-15,Taguig,Gaming Headset,Electronics,2,1800,3600,Cash on Delivery
+66,2024-06-10,Manila,Power Bank 20000mAh,Electronics,4,950,3800,GCash
+67,2024-10-15,Manila,Laptop Stand,Accessories,5,700,3500,GCash
+68,2024-09-16,Davao City,LED Ring Light,Electronics,2,600,1200,Cash on Delivery
+69,2024-05-05,Pasig,Gaming Headset,Electronics,1,1800,1800,Maya
+70,2024-10-05,Davao City,Phone Case,Accessories,4,150,600,Debit Card
+71,2024-12-07,Baguio,LED Ring Light,Electronics,1,600,600,Maya
+72,2024-05-15,Manila,Mechanical Keyboard,Electronics,2,2200,4400,GCash
+73,2024-05-19,Davao City,LED Ring Light,Electronics,2,600,1200,Debit Card
+74,2024-04-14,Davao City,Bluetooth Earbuds,Electronics,3,1200,3600,Debit Card
+75,2024-01-27,Manila,Laptop Stand,Accessories,3,700,2100,Credit Card
+76,2024-01-02,Pasig,Power Bank 20000mAh,Electronics,1,950,950,Cash on Delivery
+77,2024-08-14,Baguio,Power Bank 20000mAh,Electronics,2,950,1900,Credit Card
+78,2024-02-27,Manila,LED Ring Light,Electronics,1,600,600,Cash on Delivery
+79,2024-07-08,Iloilo City,LED Ring Light,Electronics,1,600,600,Debit Card
+80,2024-03-06,Quezon City,Phone Case,Accessories,4,150,600,Maya
+81,2024-07-02,Cebu City,Gaming Headset,Electronics,1,1800,1800,Cash on Delivery
+82,2024-10-13,Taguig,Mechanical Keyboard,Electronics,3,2200,6600,Debit Card
+83,2024-03-24,Caloocan,Phone Case,Accessories,2,150,300,Credit Card
+84,2024-06-19,Taguig,Wireless Mouse,Electronics,2,450,900,Cash on Delivery
+85,2024-12-25,Manila,Power Bank 20000mAh,Electronics,2,950,1900,Credit Card
+86,2024-04-23,Cebu City,Wireless Mouse,Electronics,4,450,1800,Credit Card
+87,2024-04-26,Cebu City,Gaming Headset,Electronics,3,1800,5400,GCash
+88,2024-06-17,Davao City,Bluetooth Earbuds,Electronics,4,1200,4800,GCash
+89,2024-11-24,Baguio,Power Bank 20000mAh,Electronics,3,950,2850,Credit Card
+90,2024-01-15,Manila,LED Ring Light,Electronics,3,600,1800,Maya
+91,2024-05-15,Quezon City,Phone Case,Accessories,5,150,750,GCash
+92,2024-06-25,Pasig,Portable Fan,Home,4,350,1400,Credit Card
+93,2024-02-29,Taguig,Portable Fan,Home,5,350,1750,Debit Card
+94,2024-01-23,Taguig,Bluetooth Earbuds,Electronics,3,1200,3600,GCash
+95,2024-12-17,Cebu City,LED Ring Light,Electronics,5,600,3000,Maya
+96,2024-12-06,Pasig,USB-C Cable,Accessories,1,120,120,Debit Card
+97,2024-06-02,Baguio,Gaming Headset,Electronics,1,1800,1800,Maya
+98,2024-07-25,Davao City,USB-C Cable,Accessories,3,120,360,Debit Card
+99,2024-08-03,Taguig,Phone Case,Accessories,2,150,300,Cash on Delivery
+100,2024-06-03,Taguig,Portable Fan,Home,5,350,1750,Debit Card
+101,2024-05-26,Cebu City,Wireless Mouse,Electronics,3,450,1350,Credit Card
+102,2024-12-01,Pasig,Portable Fan,Home,5,350,1750,Credit Card
+103,2024-12-11,Cebu City,Laptop Stand,Accessories,4,700,2800,Debit Card
+104,2024-12-03,Manila,Laptop Stand,Accessories,2,700,1400,Maya
+105,2024-06-20,Manila,LED Ring Light,Electronics,5,600,3000,Cash on Delivery
+106,2024-04-11,Caloocan,Power Bank 20000mAh,Electronics,2,950,1900,GCash
+107,2024-08-31,Iloilo City,Wireless Mouse,Electronics,2,450,900,GCash
+108,2024-11-18,Iloilo City,Laptop Stand,Accessories,4,700,2800,Cash on Delivery
+109,2024-07-23,Cebu City,USB-C Cable,Accessories,4,120,480,Cash on Delivery
+110,2024-08-05,Cebu City,Wireless Mouse,Electronics,1,450,450,Cash on Delivery
+111,2024-01-26,Baguio,LED Ring Light,Electronics,4,600,2400,Cash on Delivery
+112,2024-03-09,Makati,Mechanical Keyboard,Electronics,4,2200,8800,Debit Card
+113,2024-06-11,Makati,LED Ring Light,Electronics,5,600,3000,Debit Card
+114,2024-10-07,Makati,LED Ring Light,Electronics,4,600,2400,Cash on Delivery
+115,2024-05-12,Cebu City,Laptop Stand,Accessories,4,700,2800,Maya
+116,2024-11-16,Cebu City,LED Ring Light,Electronics,4,600,2400,Maya
+117,2024-12-31,Davao City,Laptop Stand,Accessories,1,700,700,Cash on Delivery
+118,2024-06-12,Baguio,Power Bank 20000mAh,Electronics,3,950,2850,GCash
+119,2024-04-28,Taguig,Phone Case,Accessories,2,150,300,Cash on Delivery
+120,2024-07-31,Taguig,Bluetooth Earbuds,Electronics,1,1200,1200,Maya
+121,2024-07-31,Quezon City,LED Ring Light,Electronics,4,600,2400,Cash on Delivery
+122,2024-10-26,Quezon City,USB-C Cable,Accessories,4,120,480,Debit Card
+123,2024-01-04,Pasig,USB-C Cable,Accessories,4,120,480,Maya
+124,2024-10-02,Baguio,USB-C Cable,Accessories,4,120,480,Debit Card
+125,2024-04-22,Davao City,Bluetooth Earbuds,Electronics,4,1200,4800,Credit Card
+126,2024-07-18,Pasig,Laptop Stand,Accessories,1,700,700,Credit Card
+127,2024-03-06,Iloilo City,Phone Case,Accessories,4,150,600,Debit Card
+128,2024-10-30,Iloilo City,Wireless Mouse,Electronics,4,450,1800,GCash
+129,2024-03-10,Makati,Mechanical Keyboard,Electronics,4,2200,8800,Cash on Delivery
+130,2024-07-13,Pasig,Wireless Mouse,Electronics,3,450,1350,Cash on Delivery
+131,2024-06-21,Taguig,Laptop Stand,Accessories,3,700,2100,Maya
+132,2024-02-11,Makati,USB-C Cable,Accessories,3,120,360,GCash
+133,2024-06-28,Cebu City,LED Ring Light,Electronics,1,600,600,GCash
+134,2024-05-06,Cebu City,Wireless Mouse,Electronics,1,450,450,GCash
+135,2024-05-02,Caloocan,Portable Fan,Home,2,350,700,Credit Card
+136,2024-04-21,Makati,Mechanical Keyboard,Electronics,5,2200,11000,Maya
+137,2024-11-06,Iloilo City,Gaming Headset,Electronics,2,1800,3600,GCash
+138,2024-02-25,Iloilo City,Phone Case,Accessories,3,150,450,GCash
+139,2024-12-12,Taguig,Power Bank 20000mAh,Electronics,5,950,4750,Credit Card
+140,2024-10-30,Cebu City,Bluetooth Earbuds,Electronics,1,1200,1200,GCash
+141,2024-03-02,Iloilo City,Power Bank 20000mAh,Electronics,5,950,4750,GCash
+142,2024-08-07,Pasig,Gaming Headset,Electronics,5,1800,9000,GCash
+143,2024-01-07,Taguig,LED Ring Light,Electronics,3,600,1800,Credit Card
+144,2024-07-04,Makati,Mechanical Keyboard,Electronics,4,2200,8800,Cash on Delivery
+145,2024-09-24,Davao City,USB-C Cable,Accessories,2,120,240,Debit Card
+146,2024-08-26,Taguig,LED Ring Light,Electronics,4,600,2400,Debit Card
+147,2024-05-05,Manila,Power Bank 20000mAh,Electronics,3,950,2850,Maya
+148,2024-08-25,Iloilo City,Laptop Stand,Accessories,2,700,1400,Debit Card
+149,2024-01-15,Makati,USB-C Cable,Accessories,3,120,360,Maya
+150,2024-04-18,Pasig,Phone Case,Accessories,4,150,600,Maya
+151,2024-11-01,Davao City,Gaming Headset,Electronics,3,1800,5400,Debit Card
+152,2024-04-07,Manila,Wireless Mouse,Electronics,5,450,2250,Cash on Delivery
+153,2024-10-11,Cebu City,USB-C Cable,Accessories,4,120,480,Credit Card
+154,2024-01-09,Manila,Laptop Stand,Accessories,4,700,2800,Maya
+155,2024-12-20,Cebu City,Bluetooth Earbuds,Electronics,4,1200,4800,Maya
+156,2024-08-30,Baguio,Portable Fan,Home,3,350,1050,Debit Card
+157,2024-10-08,Pasig,Gaming Headset,Electronics,4,1800,7200,Maya
+158,2024-06-05,Davao City,Laptop Stand,Accessories,3,700,2100,Cash on Delivery
+159,2024-06-10,Manila,Mechanical Keyboard,Electronics,2,2200,4400,Debit Card
+160,2024-04-20,Makati,Phone Case,Accessories,2,150,300,Maya
